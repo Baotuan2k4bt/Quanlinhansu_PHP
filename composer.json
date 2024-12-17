@@ -1,0 +1,17 @@
+{
+    "name": "asus/qlinv",
+    "autoload": {
+        "psr-4": {
+            "Asus\\Qlinv\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Baotuan2k4bt",
+            "email": "tuannguyen2k4bt@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^3.5"
+    }
+}
